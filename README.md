@@ -1,1 +1,1 @@
-# cavas-刮刮乐
+# canvas-刮刮乐
